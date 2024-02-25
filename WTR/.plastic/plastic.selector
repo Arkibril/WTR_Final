@@ -1,0 +1,4 @@
+repository "default2-local@Cubanoid@cloud"
+  path "/"
+    br "/main"
+    co "/main"
