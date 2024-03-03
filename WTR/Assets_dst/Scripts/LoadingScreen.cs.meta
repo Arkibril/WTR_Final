@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:WTR/Assets/USplashScreen/Content/Script/Core/USplash.cs.meta
+guid: e55f29649866f144e92feec8cb051e6c
+MonoImporter:
+========
+guid: 7cdcfcf0cf3576f4a941d1b36d007c00
+MonoImporter:
+  externalObjects: {}
+>>>>>>>> a4c5bc985ce75e1e1be27266691f9e00151a22d6:WTR/Assets/Scripts/LoadingScreen.cs.meta
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
