@@ -17,7 +17,7 @@ public class HUD : MonoBehaviour
 
     public CameraController cameraController;
 
-    public Quaternion lastCameraRotation; // Pour caméra
+    public Quaternion lastCameraRotation; 
 
     void Start()
     {

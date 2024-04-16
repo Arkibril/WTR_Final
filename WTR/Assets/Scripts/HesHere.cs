@@ -130,7 +130,7 @@ public class HesHere : MonoBehaviour
     {
         Debug.Log("Playing Success Animation");
         //successAnimator.StopPlayback();
-        successAnimator.Play("SuccessAnimation");
+        successAnimator.Play("SuccesTutorial");
         //successAnimator.StopPlayback();
     }
 
